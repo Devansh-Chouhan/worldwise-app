@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "2c00",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "countryFlag": "ES",
+      "date": "2024-07-11T06:59:21.791Z",
+      "notes": "",
+      "position": {
+        "lat": "40.413496049701955",
+        "lng": "-3.6035156250000004"
+      }
+    },
+    {
+      "id": "9bc8",
+      "cityName": "Mumbai",
+      "country": "India",
+      "countryFlag": "IN",
+      "date": "2024-07-11T06:59:32.434Z",
+      "notes": "",
+      "position": {
+        "lat": "19.062117883514652",
+        "lng": "72.94921875000001"
+      }
+    }
+  ]
+}
