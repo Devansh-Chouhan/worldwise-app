@@ -11,10 +11,6 @@ Currently, two official plugins are available:
 
 WorldWise App is a React-based web application designed to explore cities and countries around the world. It allows users to view city details, add new cities, and more.
 
-## Live Demo
-
-Explore the live demo: [WorldWise App Demo](https://worldwise-demo.netlify.app)
-
 ## Features
 
 - **Authentication**: Secure login with a fake authentication system.
