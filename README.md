@@ -39,7 +39,11 @@ WorldWise App is a React-based web application designed to explore cities and co
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000` to view the app.
+4. Start the json server:
+
+   ```bash
+   npm run server
+   ```
 
 ## Technologies Used
 
